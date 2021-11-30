@@ -1,4 +1,4 @@
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](pedroelisio555@gmail.com)   
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](mailto:pedroelisio555@gmail.com)   
 
 # WELCOME 👋! 
 
@@ -29,7 +29,7 @@ My name is Elisio Xavier Pedro.
 
 ### Contatos :phone: :mega: :mailbox:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisio-xavier-pedro//)](https://www.linkedin.com/in/elisio-xavier-pedro/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](pedroelisio555@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisio-xavier-pedro//)](https://www.linkedin.com/in/elisio-xavier-pedro/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedroelisio555@gmail.com) 
 
 
 
