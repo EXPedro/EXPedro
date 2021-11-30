@@ -4,15 +4,15 @@
 
 My name is Elisio Xavier Pedro. 
 
-:computer: I'm a Full Stack Developer!
+- :computer: I'm a Full Stack Developer!
 
-:house_with_garden: I’m from Curitiba-PR/Brazil.
+- :house_with_garden: I’m from Curitiba-PR/Brazil.
 
-:books: Curious. I’m always studying something.
+- :books: Curious. I’m always studying something.
 
-:brazil: My native language is portuguese. I also speak  :uk: english, :es: español, :fr: français et :de: deutsch. Und ich bin lernen Russisch  :ru:
+- :earth_americas: My native language is :brazil: brazilian portuguese. I also speak  :uk: english, :es: español, :fr: français et :de: deutsch. Und ich bin lernen Russisch  :ru:
 
-:fountain: I'm a technologist graduated from UTFPR.
+- :fountain: I'm an automation technologist, graduated from UTFPR- Universidade Tecnológica Federal do Paraná.
 
 ## Spoken Languages :stuck_out_tongue:
 
