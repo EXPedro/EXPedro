@@ -4,7 +4,7 @@
 
 My name is Elisio Xavier Pedro. 
 
-:computer: I'm a Fullstack Developer!
+:computer: I'm a Full Stack Developer!
 
 :house_with_garden: I’m from Curitiba-PR/Brazil.
 
