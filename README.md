@@ -2,7 +2,7 @@
 
 My name is Elisio Xavier Pedro. 
 
-- :computer: I'm studying to become a fullstack developer 🧑‍🎤
+- :computer: I'm a fullstack developer 🧑‍🎤
 
 - :house_with_garden: I’m from Curitiba-PR/Brazil    
 
