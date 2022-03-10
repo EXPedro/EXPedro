@@ -6,9 +6,9 @@ My name is Elisio Xavier Pedro.
 
 - :house_with_garden: I’m from Curitiba-PR/Brazil    
 
-- :earth_americas: My native language is :brazil: brazilian portuguese. I also speak  :uk: english, :es: español, :fr: français et :de: deutsch. Und ich bin lernen Russisch  :ru:
+- :fountain: I'm an automation technologist, from UTFPR- Universidade Tecnológica Federal do Paraná
 
-- :fountain: I'm an automation technologist, graduated from UTFPR- Universidade Tecnológica Federal do Paraná
+- :earth_americas: I live in :brazil: brazil, but I speak :uk: english, :es: español, :fr: français and :de: deutsch. 
 
 ## Spoken Languages :stuck_out_tongue:
 
