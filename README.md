@@ -1,12 +1,6 @@
 # WELCOME 👋! 
 
-My name is Elisio Xavier Pedro. 
-
-- :fountain: I'm a Technologist, graduated from UTFPR- Universidade Tecnológica Federal do Paraná
-
-- :computer: I work as a freelancer fullstack web developer 🧑‍
-
-- :house_with_garden: I am from Curitiba-PR/Brazil  
+I'm EXPedro.
 
 ## Languages :stuck_out_tongue:
 
@@ -19,14 +13,6 @@ My name is Elisio Xavier Pedro.
 ## Backend ⚙️   
 
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)![ElasticSearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)    
-
-## 🌱 Learning Goals
-
-I'm currently focused on improving my skills in:
-
-- Advanced React.js concepts
-- Testing methodologies (Jest, Enzyme)
-- Continuous integration and deployment
 
 ## 🤝 Let's Connect!
 
