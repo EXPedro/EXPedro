@@ -18,7 +18,7 @@ I'm EXPedro.
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out if you want to discuss projects, share knowledge, or just have a friendly chat!
 
-### Contact me! :phone: :mega: :mailbox:
+### Cont(r)act me! :phone: :mega: :mailbox:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisio-xavier-pedro//)](https://www.linkedin.com/in/elisio-xavier-pedro/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pedroelisio555@gmail.com) 
 
